@@ -1,0 +1,115 @@
+"""
+Product Catalog - Sample Document for RAG Demo
+Comprehensive information about company products and services.
+"""
+
+# CloudSync Pro - Data Synchronization Platform
+
+CloudSync Pro is our flagship data synchronization solution designed for modern businesses.
+
+## Features:
+- Real-time data synchronization across multiple systems
+- Support for 50+ data sources including databases, APIs, and file systems
+- Advanced conflict resolution and data validation
+- Automated backup and disaster recovery
+- Custom data transformation capabilities
+- 24/7 monitoring and alerting
+
+## Pricing Tiers:
+- Starter Plan: $29/month (up to 5 data sources, basic support)
+- Professional Plan: $99/month (up to 25 data sources, priority support)
+- Enterprise Plan: $299/month (unlimited sources, dedicated support)
+
+## Use Cases:
+- Multi-system integration
+- Data warehousing and analytics
+- Real-time business intelligence
+- Legacy system modernization
+
+# SecureVault - Enterprise Cloud Storage
+
+SecureVault provides military-grade security for your sensitive business data.
+
+## Security Features:
+- AES-256 encryption at rest and in transit
+- Zero-knowledge architecture
+- SOC2, HIPAA, and GDPR compliance
+- Advanced access controls and audit trails
+- Unlimited file versioning
+
+## Pricing Plans:
+- Basic: $19/month (100GB storage, standard support)
+- Professional: $49/month (1TB storage, priority support)
+- Enterprise: $149/month (unlimited storage, dedicated support)
+
+## Integrations:
+- Microsoft Office 365 and SharePoint
+- Google Workspace and Drive
+- Slack and Microsoft Teams
+- Adobe Creative Suite
+- CAD and engineering software
+
+# AnalyticsDash - Business Intelligence Platform
+
+AnalyticsDash transforms your data into actionable insights with our intuitive BI platform.
+
+## Key Features:
+- Drag-and-drop dashboard builder
+- 200+ pre-built data connectors
+- Machine learning-powered insights
+- Real-time data processing
+- Automated report generation
+- Mobile-responsive dashboards
+
+## Pricing Structure:
+- Basic: $49/month (up to 5 users, standard connectors)
+- Professional: $149/month (up to 25 users, advanced analytics)
+- Enterprise: $399/month (unlimited users, custom development)
+
+## Analytics Capabilities:
+- Predictive analytics and forecasting
+- Customer behavior analysis
+- Financial performance tracking
+- Operational efficiency metrics
+- Custom KPI monitoring
+
+# Enterprise Solutions
+
+For large organizations, we offer comprehensive enterprise solutions:
+
+## Custom Development:
+- Tailored software solutions
+- Legacy system integration
+- API development and management
+- White-label product offerings
+
+## Professional Services:
+- Implementation and deployment
+- Data migration and consulting
+- Training and change management
+- Ongoing support and maintenance
+
+## Enterprise Benefits:
+- Volume discounts for 100+ users
+- Dedicated customer success manager
+- 99.9% uptime SLA guarantee
+- On-premise deployment options
+- Custom contract terms and pricing
+
+# Support and Training
+
+All plans include comprehensive support:
+
+## Support Channels:
+- 24/7 live chat support
+- Phone support during business hours
+- Email support with guaranteed response times
+- Comprehensive documentation and knowledge base
+- Video tutorials and webinar training
+
+## Training Programs:
+- New user onboarding
+- Administrator certification
+- Advanced feature workshops
+- Best practices consulting
+- Custom training for enterprise clients

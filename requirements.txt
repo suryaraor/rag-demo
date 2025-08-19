@@ -1,0 +1,27 @@
+# RAG Demo Requirements
+# Install these packages for the full demo experience
+
+# Basic requirements (for simple demo)
+numpy>=1.21.0
+
+# Advanced requirements (for production-ready demo)
+sentence-transformers>=2.2.0  # For advanced embeddings
+faiss-cpu>=1.7.0             # For efficient vector search
+openai>=1.0.0                # For GPT integration (optional)
+
+# Alternative vector databases (choose one)
+# chromadb>=0.4.0            # Alternative vector database
+# pinecone-client>=2.2.0     # Managed vector database
+# weaviate-client>=3.0.0     # Open source vector database
+
+# Data processing
+pandas>=1.5.0
+scikit-learn>=1.1.0
+
+# Web framework (if you want to add API)
+# fastapi>=0.100.0
+# uvicorn>=0.20.0
+
+# Utilities
+python-dotenv>=1.0.0         # For environment variables
+tqdm>=4.64.0                 # Progress bars

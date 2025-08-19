@@ -1,0 +1,56 @@
+"""
+Company Policies - Sample Document for RAG Demo
+This document contains comprehensive company policies for demonstration purposes.
+"""
+
+# Employee Vacation Policy
+
+Our company provides generous vacation benefits to support work-life balance:
+
+- Full-time employees receive 20 vacation days per year
+- Part-time employees receive prorated vacation based on hours worked
+- New employees accrue 1.67 days per month in their first year
+- Vacation requests must be submitted at least 2 weeks in advance
+- Requests are submitted through the HR portal and require manager approval
+- Up to 5 unused vacation days can be carried over to the next year
+- Carryover days must be used by March 31st of the following year
+
+# Expense Reporting Policy
+
+Our expense reporting process ensures timely reimbursement:
+
+- Monthly expense reports are due by the 5th of the following month
+- All receipts must be attached and properly categorized
+- Use the company expense management system for submissions
+- Manager approval is required before reimbursement processing
+- Reimbursements are processed within 5 business days of approval
+
+Travel expense limits:
+- Daily meal allowance during business travel: $75
+- Hotel expenses over $200/night require pre-approval
+- Economy class airfare for domestic travel
+- Business class permitted for international flights over 6 hours
+
+# Remote Work Policy
+
+Our flexible work arrangements support productivity:
+
+- Remote work permitted up to 3 days per week
+- Manager approval required for remote work arrangements
+- Core collaboration hours: 10:00 AM to 3:00 PM (all team members available)
+- Standard office hours: 9:00 AM to 5:00 PM, Monday through Friday
+- Minimum 2 days in office required per week
+- Home office setup: reliable internet and quiet workspace required
+- Company provides necessary equipment: laptop, monitor, accessories
+
+# IT Security Requirements
+
+Security is our top priority:
+
+- Passwords must be at least 12 characters with numbers, symbols, and mixed case
+- Multi-factor authentication required for all company systems
+- Company-provided password manager (1Password) must be used
+- VPN required for all remote access to company systems
+- Report security incidents within 1 hour to security@company.com
+- All devices must have approved antivirus software installed
+- Personal devices require MDM enrollment for company access

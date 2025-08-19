@@ -1,0 +1,114 @@
+"""
+Operational Procedures - Sample Document for RAG Demo
+Internal procedures and operational guidelines.
+"""
+
+# Meeting Room Booking Procedures
+
+Our office facilities include several meeting spaces designed for collaboration:
+
+## Available Meeting Rooms:
+- Conference Room A: 12-person capacity, projector, video conferencing
+- Conference Room B: 8-person capacity, whiteboard, TV display
+- Huddle Rooms (4 available): 4-person capacity each, phone/video capable
+- Board Room: 20-person capacity, executive presentations, catering setup
+- Phone Booths (6 available): Individual quiet spaces for calls
+
+## Booking Process:
+- Reserve through company calendar system (Outlook/Google Calendar)
+- Booking window: up to 30 days in advance
+- Maximum single booking: 4 hours without manager approval
+- Recurring meetings require manager approval for weekly/daily slots
+- Cancellations must be made at least 2 hours before meeting start
+
+## Room Equipment:
+- All rooms equipped with wireless presentation capability
+- Zoom Rooms installed for video conferencing
+- Whiteboards and markers available in all meeting rooms
+- Power outlets and USB charging stations
+- Report equipment issues to facilities@company.com
+
+# Office Supply Management
+
+We maintain well-stocked supply closets for employee convenience:
+
+## Available Supplies:
+- Basic office supplies: pens, paper, notebooks, folders
+- Computer accessories: cables, adapters, wireless mice
+- Presentation materials: flip chart paper, markers, sticky notes
+- Kitchen supplies: coffee, tea, snacks, disposable items
+
+## Ordering Process:
+- Basic supplies available in supply closets (self-service)
+- Special requests submitted through admin team
+- Weekly batch orders placed to optimize costs
+- Personal items: reasonable use permitted
+- Bulk orders for departments require manager approval
+
+# Visitor Management Protocol
+
+We welcome visitors while maintaining security standards:
+
+## Visitor Registration:
+- All visitors must be pre-registered by their host employee
+- Visitor information required: name, company, purpose of visit
+- Valid ID required for building access
+- Visitor badges must be worn and visible at all times
+
+## Escort Requirements:
+- All visitors must be escorted by an employee
+- Hosts responsible for visitor conduct and compliance
+- Visitors cannot access secure areas without special authorization
+- Maximum visitor duration: 8 hours without special approval
+
+## Visitor Amenities:
+- Guest WiFi network available (password: CompanyGuest2024)
+- Visitor parking spaces in front lot
+- Parking validation available for business visitors
+- Guest kitchen access with host supervision
+
+# Building Access and Security
+
+Security measures ensure safe access for all employees:
+
+## Access Cards:
+- Key card required for building entry and secured areas
+- Business hours access: 6:00 AM to 10:00 PM weekdays
+- Weekend access requires security approval
+- Lost cards must be reported immediately for deactivation
+
+## After-Hours Access:
+- Submit request through security portal
+- Manager approval required for weekend access
+- Security escort may be required for certain areas
+- Sign-in/sign-out required for after-hours access
+
+## Emergency Procedures:
+- Fire exits clearly marked on each floor
+- Emergency assembly point: front parking lot
+- Report emergencies to security: ext. 911 or (555) 123-9911
+- First aid stations located on each floor
+
+# Catering and Event Services
+
+We provide catering services for business meetings and events:
+
+## Catering Options:
+- Continental breakfast: $12 per person
+- Lunch buffet: $18 per person (includes beverages)
+- Afternoon snacks: $8 per person
+- Coffee service: $3 per person
+- Custom menus available for special events
+
+## Ordering Requirements:
+- 24-hour advance notice required for all catering
+- Minimum order: 10 people for lunch, 15 people for breakfast
+- Dietary restrictions accommodated (vegetarian, vegan, gluten-free)
+- Department cost center required for billing
+- Setup and cleanup included in catering price
+
+## Event Planning:
+- Conference room setup options: theater, classroom, boardroom
+- Audio/visual equipment rental available
+- External vendor coordination permitted with approval
+- Event planning assistance available through admin team
